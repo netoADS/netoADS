@@ -9,8 +9,7 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Te
 
 ## Principais Tecnologias
 
-<div style="display: flex; justify-content: center;">
-  <div style="text-align: center; padding: 20px;">
+<div style="text-align: center; padding: 20px;">
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/><br>
     JavaScript (JSX/TSX)
   </div>
@@ -38,7 +37,6 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Te
     <img src="https://img.icons8.com/color/48/000000/php.png"/><br>
     PHP (Laravel)
   </div>
-</div>
 
 ## Projetos em Destaque
 

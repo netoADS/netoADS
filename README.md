@@ -10,31 +10,31 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Te
 ## Principais Tecnologias
 
 <div style="display: flex; justify-content: center;">
-  <div style="flex: 0 1 auto; text-align: center; padding: 20px;">
+  <div style="text-align: center; padding: 20px;">
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/><br>
     JavaScript (JSX/TSX)
   </div>
-  <div style="flex: 0 1 auto; text-align: center; padding: 20px;">
+  <div style="text-align: center; padding: 20px;">
     <img src="https://img.icons8.com/color/48/000000/typescript.png"/><br>
     TypeScript
   </div>
-  <div style="flex: 0 1 auto; text-align: center; padding: 20px;">
+  <div style="text-align: center; padding: 20px;">
     <img src="https://img.icons8.com/color/48/000000/react-native.png"/><br>
     React Native
   </div>
-  <div style="flex: 0 1 auto; text-align: center; padding: 20px;">
+  <div style="text-align: center; padding: 20px;">
     <img src="https://img.icons8.com/color/48/000000/python.png"/><br>
     Python
   </div>
-  <div style="flex: 0 1 auto; text-align: center; padding: 20px;">
+  <div style="text-align: center; padding: 20px;">
     <img src="https://img.icons8.com/color/48/000000/docker.png"/><br>
     Docker
   </div>
-  <div style="flex: 0 1 auto; text-align: center; padding: 20px;">
+  <div style="text-align: center; padding: 20px;">
     <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/><br>
     AWS Cloud
   </div>
-  <div style="flex: 0 1 auto; text-align: center; padding: 20px;">
+  <div style="text-align: center; padding: 20px;">
     <img src="https://img.icons8.com/color/48/000000/php.png"/><br>
     PHP (Laravel)
   </div>

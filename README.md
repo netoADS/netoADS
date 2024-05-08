@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 - 👋 Hi, I’m @netoADS
 - 👀 I’m interested in: Develop to refine and enhance my developed applications
 - 🌱 I’m currently learning: API REST em Django, Python, React Native, JSX, TSX, AWS CLOUD 

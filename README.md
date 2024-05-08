@@ -9,27 +9,34 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Te
 
 ## Principais Tecnologias
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 50%; padding: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <div style="flex: 0 1 auto; text-align: center; padding: 20px;">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png"/><br>
+    JavaScript (JSX/TSX)
   </div>
-  <div style="flex: 50%; padding: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+  <div style="flex: 0 1 auto; text-align: center; padding: 20px;">
+    <img src="https://img.icons8.com/color/48/000000/typescript.png"/><br>
+    TypeScript
   </div>
-  <div style="flex: 50%; padding: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+  <div style="flex: 0 1 auto; text-align: center; padding: 20px;">
+    <img src="https://img.icons8.com/color/48/000000/react-native.png"/><br>
+    React Native
   </div>
-  <div style="flex: 50%; padding: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/python.png"/>
+  <div style="flex: 0 1 auto; text-align: center; padding: 20px;">
+    <img src="https://img.icons8.com/color/48/000000/python.png"/><br>
+    Python
   </div>
-  <div style="flex: 50%; padding: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/docker.png"/>
+  <div style="flex: 0 1 auto; text-align: center; padding: 20px;">
+    <img src="https://img.icons8.com/color/48/000000/docker.png"/><br>
+    Docker
   </div>
-  <div style="flex: 50%; padding: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+  <div style="flex: 0 1 auto; text-align: center; padding: 20px;">
+    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/><br>
+    AWS Cloud
   </div>
-  <div style="flex: 50%; padding: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/php.png"/>
+  <div style="flex: 0 1 auto; text-align: center; padding: 20px;">
+    <img src="https://img.icons8.com/color/48/000000/php.png"/><br>
+    PHP (Laravel)
   </div>
 </div>
 

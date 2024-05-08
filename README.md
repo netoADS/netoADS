@@ -1,6 +1,4 @@
-<!-- Adicione esta linha no início do seu README.md para carregar o CSS personalizado -->
-<link rel="stylesheet" type="text/css" href="styles.css">
-
+![Plano de Fundo](image/druidtalkingtoan.jpg)
 
 
 
@@ -99,12 +97,3 @@ https://github-readme-streak-stats.herokuapp.com/?user=netoADS
 ### :writing_hand: Blog Posts :
  -->
 
- <!-- Adicione este código no final do seu README.md -->
-<style>
-  body {
-    background-image: url('./image/druidtalkingtoan.jpg');
-    background-size: cover;
-    background-position: center;
-    color: white;
-  }
-</style>

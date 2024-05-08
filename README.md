@@ -62,10 +62,9 @@ Seja bem-vindo à minha clareira digital no GitHub! Sou um druida do código, co
 
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=netoADS&theme=black-ice&hide_border=true&border_radius=5&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=netoADS&theme=black-ice&hide_border=true&border_radius=5&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=netoADS&theme=black-ice&hide_border=true&border_radius=5&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=netoADS)](https://github.com/netoADS/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=denvercoder1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=netoADS)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

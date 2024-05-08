@@ -1,16 +1,7 @@
 <!-- Adicione esta linha no início do seu README.md para carregar o CSS personalizado -->
 <link rel="stylesheet" type="text/css" href="styles.css">
 
-<!-- Adicione este código no final do seu README.md -->
-<style>
-  /* Adicione estilos CSS aqui */
-  body {
-    background-image: url('./image/druidtalkingtoan.jpg');
-    background-size: cover;
-    background-position: center;
-    color: white; /* Altere a cor do texto para garantir a visibilidade */
-  }
-</style>
+
 
 
 # Olá, viajante da floresta! 🌲🦉
@@ -107,3 +98,14 @@ https://github-readme-streak-stats.herokuapp.com/?user=netoADS
 
 ### :writing_hand: Blog Posts :
  -->
+
+ <!-- Adicione este código no final do seu README.md -->
+<style>
+  /* Adicione estilos CSS aqui */
+  body {
+    background-image: url('./image/druidtalkingtoan.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white; /* Altere a cor do texto para garantir a visibilidade */
+  }
+</style>

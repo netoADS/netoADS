@@ -1,4 +1,36 @@
-<div id="header" align="center">
+# Olá, viajante da floresta! 🌲🦉
+
+Bem-vindo à minha toca no GitHub! Sou um aprendiz de druida digital, explorando os segredos da natureza da programação.
+
+## Sobre mim 🌿
+
+🌳 Eu sou apaixonado por natureza e tecnologia, e busco encontrar o equilíbrio entre ambos em meus projetos.
+🌿 Minhas áreas de interesse incluem desenvolvimento web, aprendizado de máquina e ciência de dados.
+🦉 Sou fascinado pelo conhecimento ancestral dos druidas e busco trazer essa sabedoria para o mundo da tecnologia.
+
+## Minhas Habilidades 🌱
+
+### Linguagens de Programação:
+- Python
+- JavaScript
+- HTML/CSS
+
+### Ferramentas e Tecnologias:
+- Node.js
+- React
+- TensorFlow
+
+
+## Entre em contato 🌌
+
+Sinta-se à vontade para entrar em contato comigo para discussões sobre tecnologia, natureza ou qualquer coisa entre elas! Você pode me encontrar no [LinkedIn](seu-linkedin) e [Twitter](seu-twitter).
+
+Vamos nos conectar e trazer o poder da floresta para o mundo digital! 🌿🌌
+
+
+
+
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
@@ -59,3 +91,4 @@ https://github-readme-streak-stats.herokuapp.com/?user=netoADS
 ---
 
 ### :writing_hand: Blog Posts :
+ -->

@@ -10,32 +10,25 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Te
 ## Principais Tecnologias
 
 <div style="text-align: center; padding: 20px;">
-    <img src="https://img.icons8.com/color/48/000000/javascript.png"/><br>
-    JavaScript (JSX/TSX)
+    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
   </div>
   <div style="text-align: center; padding: 20px;">
-    <img src="https://img.icons8.com/color/48/000000/typescript.png"/><br>
-    TypeScript
+    <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
   </div>
   <div style="text-align: center; padding: 20px;">
-    <img src="https://img.icons8.com/color/48/000000/react-native.png"/><br>
-    React Native
+    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
   </div>
   <div style="text-align: center; padding: 20px;">
-    <img src="https://img.icons8.com/color/48/000000/python.png"/><br>
-    Python
+    <img src="https://img.icons8.com/color/48/000000/python.png"/>
   </div>
   <div style="text-align: center; padding: 20px;">
-    <img src="https://img.icons8.com/color/48/000000/docker.png"/><br>
-    Docker
+    <img src="https://img.icons8.com/color/48/000000/docker.png"/>
   </div>
   <div style="text-align: center; padding: 20px;">
-    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/><br>
-    AWS Cloud
+    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
   </div>
   <div style="text-align: center; padding: 20px;">
-    <img src="https://img.icons8.com/color/48/000000/php.png"/><br>
-    PHP (Laravel)
+    <img src="https://img.icons8.com/color/48/000000/php.png"/>
   </div>
 
 ## Projetos em Destaque

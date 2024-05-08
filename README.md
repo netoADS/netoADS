@@ -8,28 +8,13 @@
 Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Tenho experiência em diversas tecnologias e estou sempre em busca de aprender mais e me aprimorar.
 
 ## Principais Tecnologias
-
-<div style="text-align: center; padding: 20px;">
-    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  </div>
-  <div style="text-align: center; padding: 20px;">
-    <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
-  </div>
-  <div style="text-align: center; padding: 20px;">
-    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-  </div>
-  <div style="text-align: center; padding: 20px;">
-    <img src="https://img.icons8.com/color/48/000000/python.png"/>
-  </div>
-  <div style="text-align: center; padding: 20px;">
-    <img src="https://img.icons8.com/color/48/000000/docker.png"/>
-  </div>
-  <div style="text-align: center; padding: 20px;">
-    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
-  </div>
-  <div style="text-align: center; padding: 20px;">
-    <img src="https://img.icons8.com/color/48/000000/php.png"/>
-  </div>
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+<img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<img src="https://img.icons8.com/color/48/000000/python.png"/>
+<img src="https://img.icons8.com/color/48/000000/docker.png"/>
+<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+<img src="https://img.icons8.com/color/48/000000/php.png"/>
 
 ## Projetos em Destaque
 

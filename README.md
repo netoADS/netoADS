@@ -64,6 +64,8 @@ Seja bem-vindo à minha clareira digital no GitHub! Sou um druida do código, co
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=netoADS&theme=black-ice&hide_border=true&border_radius=5&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netoADS)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netoADS&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Que os espíritos da floresta guiem nossos códigos e que nossas jornadas sejam tão profundas quanto as raízes das árvores antigas! 🌲🌌
 

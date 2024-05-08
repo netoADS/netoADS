@@ -9,15 +9,36 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Te
 
 ## Principais Tecnologias
 
-| Tecnologia                | Descrição                                                                                                             |
-|---------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| <img src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript (JSX/TSX) | Proficiente em desenvolvimento frontend utilizando React.js e React Native. Tenho experiência em construir interfaces modernas e responsivas. |
-| <img src="https://img.icons8.com/color/48/000000/typescript.png"/> TypeScript       | Conhecimento sólido em TypeScript, utilizado principalmente em projetos React e Node.js.                              |
-| <img src="https://img.icons8.com/color/48/000000/react-native.png"/> React Native     | Capacidade de desenvolver aplicativos móveis nativos para iOS e Android utilizando React Native.                      |
-| <img src="https://img.icons8.com/color/48/000000/python.png"/> Python                 | Experiência sólida em desenvolvimento backend com Python, utilizando frameworks como Django e Flask.                   |
-| <img src="https://img.icons8.com/color/48/000000/docker.png"/> Docker                 | Conhecimento avançado em contêinerização de aplicações com Docker, facilitando o desenvolvimento, implantação e escalabilidade de sistemas. |
-| <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> AWS Cloud | Experiência em projetos na nuvem utilizando serviços da AWS, como EC2, S3, Lambda, e RDS. Capaz de arquitetar e implementar soluções escaláveis na nuvem. |
-| <img src="https://img.icons8.com/color/48/000000/php.png"/> PHP (Laravel)            | Experiência em desenvolvimento de aplicações web utilizando Laravel, um dos frameworks PHP mais populares e poderosos. |
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 50%; padding: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+    <strong>JavaScript (JSX/TSX)</strong>: Proficiente em desenvolvimento frontend utilizando React.js e React Native. Tenho experiência em construir interfaces modernas e responsivas.
+  </div>
+  <div style="flex: 50%; padding: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+    <strong>TypeScript</strong>: Conhecimento sólido em TypeScript, utilizado principalmente em projetos React e Node.js.
+  </div>
+  <div style="flex: 50%; padding: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+    <strong>React Native</strong>: Capacidade de desenvolver aplicativos móveis nativos para iOS e Android utilizando React Native, proporcionando uma experiência de usuário de alta qualidade.
+  </div>
+  <div style="flex: 50%; padding: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/python.png"/>
+    <strong>Python</strong>: Experiência sólida em desenvolvimento backend com Python, utilizando frameworks como Django e Flask. Capaz de criar APIs robustas e escaláveis.
+  </div>
+  <div style="flex: 50%; padding: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/docker.png"/>
+    <strong>Docker</strong>: Conhecimento avançado em contêinerização de aplicações com Docker, facilitando o desenvolvimento, implantação e escalabilidade de sistemas.
+  </div>
+  <div style="flex: 50%; padding: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+    <strong>AWS Cloud</strong>: Experiência em projetos na nuvem utilizando serviços da AWS, como EC2, S3, Lambda, e RDS. Capaz de arquitetar e implementar soluções escaláveis na nuvem.
+  </div>
+  <div style="flex: 50%; padding: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/php.png"/>
+    <strong>PHP (Laravel)</strong>: Experiência em desenvolvimento de aplicações web utilizando Laravel, um dos frameworks PHP mais populares e poderosos.
+  </div>
+</div>
 
 ## Projetos em Destaque
 
@@ -38,6 +59,7 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Te
 ## Linguagens Mais Utilizadas
 
 ![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuNomeDeUsuário&layout=compact&theme=dark)
+
 
 
 

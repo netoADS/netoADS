@@ -9,7 +9,7 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Te
 
 ## Principais Tecnologias
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center;">
   <div style="flex: 0 1 auto; text-align: center; padding: 20px;">
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/><br>
     JavaScript (JSX/TSX)

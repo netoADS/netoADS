@@ -101,11 +101,10 @@ https://github-readme-streak-stats.herokuapp.com/?user=netoADS
 
  <!-- Adicione este código no final do seu README.md -->
 <style>
-  /* Adicione estilos CSS aqui */
   body {
     background-image: url('./image/druidtalkingtoan.jpg');
     background-size: cover;
     background-position: center;
-    color: white; /* Altere a cor do texto para garantir a visibilidade */
+    color: white;
   }
 </style>

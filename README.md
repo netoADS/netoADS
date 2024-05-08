@@ -62,13 +62,13 @@ Seja bem-vindo à minha clareira digital no GitHub! Sou um druida do código, co
 
 <div style="display: flex; flex-direction: column; align-items: center;">
     <a href="https://git.io/streak-stats" style="max-width: 400px !important; margin-bottom: 20px; display: block;">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=netoADS&theme=vue-dark&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" style="width: 100%; max-width: 400px !important">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=netoADS&theme=vue-dark&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" style="width: 50%">
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" style="max-width: 400px !important; margin-bottom: 20px; display: block;">
-        <img src="https://github-readme-stats.vercel.app/api?username=netoADS&theme=vue-dark&show_icons=true" alt="Anurag's GitHub stats" style="width: 100%; max-width: 400px !important">
+        <img src="https://github-readme-stats.vercel.app/api?username=netoADS&theme=vue-dark&show_icons=true" alt="Anurag's GitHub stats" style="width: 50%">
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" style="max-width: 400px !important; display: block;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netoADS&layout=compact&theme=vision-friendly-dark" alt="Top Langs" style="width: 100%; max-width: 400px !important">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netoADS&layout=compact&theme=vue-dark&show_icons=true" alt="Top Langs" style="width: 50%">
     </a>
 </div>
 

@@ -12,11 +12,14 @@ Seja bem-vindo à minha clareira digital no GitHub! Sou um druida do código, co
 </div>
 
 
-### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=netoADS
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=netoADS&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netoADS)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netoADS&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://komarev.com/ghpvc/?username=netoADS&style=flat-square&color=blue" alt=""/>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 ## Minhas Habilidades 🌟
 

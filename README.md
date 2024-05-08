@@ -1,3 +1,18 @@
+<!-- Adicione esta linha no início do seu README.md para carregar o CSS personalizado -->
+<link rel="stylesheet" type="text/css" href="styles.css">
+
+<!-- Adicione este código no final do seu README.md -->
+<style>
+  /* Adicione estilos CSS aqui */
+  body {
+    background-image: url('./image/druidtalkingtoan.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white; /* Altere a cor do texto para garantir a visibilidade */
+  }
+</style>
+
+
 # Olá, viajante da floresta! 🌲🦉
 
 Bem-vindo à minha toca no GitHub! Sou um aprendiz de druida digital, explorando os segredos da natureza da programação.

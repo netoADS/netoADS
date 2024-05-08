@@ -1,92 +1,39 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+# Olá, eu sou [Seu Nome]
 
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Perfil GitHub</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      color: #333;
-      background-color: #f4f4f4;
-      margin: 0;
-      padding: 0;
-    }
-    .container {
-      max-width: 800px;
-      margin: 20px auto;
-      padding: 20px;
-      background: #fff;
-      border-radius: 5px;
-      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    }
-    h1, h2, h3 {
-      color: #333;
-    }
-    a {
-      color: #007bff;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <h1>Olá, eu sou [Seu Nome]</h1>
+## Sobre mim
+Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Tenho experiência em diversas tecnologias e estou sempre em busca de aprender mais e me aprimorar.
 
-   <h2>Sobre mim</h2>
-    <p>Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Tenho experiência em diversas tecnologias e estou sempre em busca de aprender mais e me aprimorar.</p>
+## Principais Tecnologias
 
-   <h2>Principais Tecnologias</h2>
-    <ul>
-      <li><strong>JavaScript (JSX/TSX)</strong>: Proficiente em desenvolvimento frontend utilizando React.js e React Native. Tenho experiência em construir interfaces modernas e responsivas.</li>
-      <li><strong>Python</strong>: Experiência sólida em desenvolvimento backend com Python, utilizando frameworks como Django e Flask. Capaz de criar APIs robustas e escaláveis.</li>
-      <li><strong>Docker</strong>: Conhecimento avançado em contêinerização de aplicações com Docker, facilitando o desenvolvimento, implantação e escalabilidade de sistemas.</li>
-      <li><strong>AWS Cloud</strong>: Experiência em projetos na nuvem utilizando serviços da AWS, como EC2, S3, Lambda, e RDS. Capaz de arquitetar e implementar soluções escaláveis na nuvem.</li>
-      <li><strong>PHP (Laravel)</strong>: Experiência em desenvolvimento de aplicações web utilizando Laravel, um dos frameworks PHP mais populares e poderosos.</li>
-      <li><strong>React Native</strong>: Capacidade de desenvolver aplicativos móveis nativos para iOS e Android utilizando React Native, proporcionando uma experiência de usuário de alta qualidade.</li>
-    </ul>
+- <img src="https://img.icons8.com/color/48/000000/javascript.png"/> **JavaScript (JSX/TSX)**: Proficiente em desenvolvimento frontend utilizando React.js e React Native. Tenho experiência em construir interfaces modernas e responsivas.
+- <img src="https://img.icons8.com/color/48/000000/python.png"/> **Python**: Experiência sólida em desenvolvimento backend com Python, utilizando frameworks como Django e Flask. Capaz de criar APIs robustas e escaláveis.
+- <img src="https://img.icons8.com/color/48/000000/docker.png"/> **Docker**: Conhecimento avançado em contêinerização de aplicações com Docker, facilitando o desenvolvimento, implantação e escalabilidade de sistemas.
+- <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> **AWS Cloud**: Experiência em projetos na nuvem utilizando serviços da AWS, como EC2, S3, Lambda, e RDS. Capaz de arquitetar e implementar soluções escaláveis na nuvem.
+- <img src="https://img.icons8.com/color/48/000000/php.png"/> **PHP (Laravel)**: Experiência em desenvolvimento de aplicações web utilizando Laravel, um dos frameworks PHP mais populares e poderosos.
+- <img src="https://img.icons8.com/color/48/000000/react-native.png"/> **React Native**: Capacidade de desenvolver aplicativos móveis nativos para iOS e Android utilizando React Native, proporcionando uma experiência de usuário de alta qualidade.
 
-   <h2>Projetos em Destaque</h2>
-    <ul>
-      <li><strong>Nome do Projeto</strong>: Descrição do Projeto. <a href="#">Link para o projeto</a></li>
-      <li><strong>Nome do Projeto</strong>: Descrição do Projeto. <a href="#">Link para o projeto</a></li>
-    </ul>
+## Projetos em Destaque
 
-   <h2>Contato</h2>
-    <ul>
-      <li><strong>LinkedIn</strong>: <a href="#">Seu Perfil no LinkedIn</a></li>
-      <li><strong>Email</strong>: SeuEmail@example.com</li>
-      <li><strong>Website</strong>: <a href="#">SeuWebsite.com</a></li>
-      <li><strong>Twitter</strong>: <a href="https://twitter.com/SeuTwitter">@SeuTwitter</a></li>
-    </ul>
+- **Nome do Projeto**: Descrição do Projeto. [Link para o projeto](URL)
+- **Nome do Projeto**: Descrição do Projeto. [Link para o projeto](URL)
 
-   <h2>Stats do GitHub</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=SeuNomeDeUsuário&show_icons=true&theme=dark" alt="Estatísticas do GitHub">
+## Contato
 
-   <h2>Linguagens Mais Utilizadas</h2>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuNomeDeUsuário&layout=compact&theme=dark" alt="Linguagens Mais Utilizadas">
-  </div>
-</body>
-</html>
+- **LinkedIn**: [Seu Perfil no LinkedIn](URL)
+- **Email**: SeuEmail@example.com
+- **Website**: [SeuWebsite.com](URL)
+- **Twitter**: [@SeuTwitter](https://twitter.com/SeuTwitter)
+
+## Stats do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SeuNomeDeUsuário&show_icons=true&theme=dark)
+
+## Linguagens Mais Utilizadas
+
+![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuNomeDeUsuário&layout=compact&theme=dark)
 
 
 - 👋 Hi, I’m @netoADS

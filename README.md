@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on: Personal project where I can work and develop my skills
 - 📫 How to reach me: jc.neto1999@gmail.com
 - 😄 Pronouns: him/his
-- ⚡ Fun fact: I'm addicted to tabletop RPGs, and my character is a druid with strange fetishes
+- ⚡ Fun fact: I'm addicted to tabletop RPGs, and my character is a druid
 
 <!---
 netoADS/netoADS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

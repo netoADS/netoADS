@@ -75,7 +75,6 @@ Seja bem-vindo à minha clareira digital no GitHub! Sou um druida do código, co
 
 
 
-
 Que os espíritos da floresta guiem nossos códigos e que nossas jornadas sejam tão profundas quanto as raízes das árvores antigas! 🌲🌌
 
 <!-- <div id="header" align="center">

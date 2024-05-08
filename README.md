@@ -61,14 +61,17 @@ Seja bem-vindo à minha clareira digital no GitHub! Sou um druida do código, co
 </div>
 
 <div style="display: flex; flex-direction: column;">
-    <a href="https://git.io/streak-stats" style="width: 32%;">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=netoADS&theme=vue-dark&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" style="width: 32%;">
+    <a href="https://git.io/streak-stats" style="width: 100%; max-width: 600px; margin: auto;">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=netoADS&theme=vue-dark&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" style="width: 100%;">
     </a>
-    <img src="https://github-readme-stats.vercel.app/api?username=netoADS&theme=vue-dark&show_icons=true" alt="Anurag's GitHub stats" style="width: 32%;">
-    <a href="https://github.com/anuraghazra/github-readme-stats" style="width: 32%;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netoADS&layout=compact&theme=vision-friendly-dark" alt="Top Langs" style="width: 32%;">
+    <a href="https://github.com/anuraghazra/github-readme-stats" style="width: 100%; max-width: 600px; margin: auto;">
+        <img src="https://github-readme-stats.vercel.app/api?username=netoADS&theme=vue-dark&show_icons=true" alt="Anurag's GitHub stats" style="width: 100%;">
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" style="width: 100%; max-width: 600px; margin: auto;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netoADS&layout=compact&theme=vision-friendly-dark" alt="Top Langs" style="width: 100%;">
     </a>
 </div>
+
 
 
 Que os espíritos da floresta guiem nossos códigos e que nossas jornadas sejam tão profundas quanto as raízes das árvores antigas! 🌲🌌

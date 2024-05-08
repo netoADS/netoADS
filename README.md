@@ -22,8 +22,10 @@ Seja bem-vindo à minha clareira digital no GitHub! Sou um druida do código, co
 </div>
 
 ### Ferramentas e Tecnologias:
-<img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_node.svg"/>
-<img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<div style="display: inline_block"><br>
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_node.svg"/>
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
 
 ## Projetos 🌿
 

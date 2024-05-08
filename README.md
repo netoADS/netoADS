@@ -60,7 +60,7 @@ Seja bem-vindo à minha clareira digital no GitHub! Sou um druida do código, co
   <img src="https://komarev.com/ghpvc/?username=netoADS&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div class="tteste" style="display: flex; flex-direction: column; align-items: center;">
+<div class="tteste" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
     <a href="https://git.io/streak-stats" style="max-width: 400px !important; margin-bottom: 20px; display: block;">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=netoADS&theme=vue-dark&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" style="width: 50%">
     </a>

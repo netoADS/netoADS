@@ -60,13 +60,13 @@ Seja bem-vindo à minha clareira digital no GitHub! Sou um druida do código, co
   <img src="https://komarev.com/ghpvc/?username=netoADS&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div style="display: flex; justify-content: space-between;">
-    <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=netoADS&layout=compact&theme=vue-dark&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
+<div style="display: flex; flex-direction: column;">
+    <a href="https://git.io/streak-stats" style="width: 100%;">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=netoADS&theme=vue-dark&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" style="width: 100%;">
     </a>
-    <img src="https://github-readme-stats.vercel.app/api?username=netoADS&layout=compact&theme=vue-dark&show_icons=true" alt="Anurag's GitHub stats">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netoADS&layout=compact&theme=vue-dark" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api?username=netoADS&theme=vue-dark&show_icons=true" alt="Anurag's GitHub stats" style="width: 100%;">
+    <a href="https://github.com/anuraghazra/github-readme-stats" style="width: 100%;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netoADS&layout=compact&theme=vision-friendly-dark" alt="Top Langs" style="width: 100%;">
     </a>
 </div>
 

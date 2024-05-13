@@ -6,9 +6,9 @@ Seja bem-vindo à minha clareira digital no GitHub! Sou um druida do código, co
 
 ## Sobre Mim 🌳
 
-🌲 Seguidor dedicado dos ensinamentos ancestrais dos druidas, trago a sabedoria da floresta para o mundo digital.
-🦉 Explorando os mistérios da programação e os segredos da inteligência artificial com o espírito da natureza como meu guia.
-🌱 Comprometido em preservar o equilíbrio entre o mundo digital e o mundo natural.
+🌲 Seguidor dedicado dos ensinamentos ancestrais dos druidas, trago a sabedoria da floresta para o mundo digital. <br>
+🦉 Explorando os mistérios da programação e os segredos da inteligência artificial com o espírito da natureza como meu guia. <br>
+🌱 Comprometido em preservar o equilíbrio entre o mundo digital e o mundo natural. <br>
 
 ## Minhas Habilidades 🌟
 
@@ -61,4 +61,4 @@ Seja bem-vindo à minha clareira digital no GitHub! Sou um druida do código, co
   </a>
 </div>
 
-Que os espíritos da floresta guiem nossos códigos e que nossas jornadas sejam tão profundas quanto as raízes das árvores antigas! 🌲🌌
+Que os espíritos da floresta guiem nossos códigos e que nossas jornadas <br> sejam tão profundas quanto as raízes das árvores antigas! 🌲🌌

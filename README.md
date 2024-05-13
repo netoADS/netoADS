@@ -56,13 +56,16 @@ Seja bem-vindo à minha clareira digital no GitHub! Sou um druida do código, co
   <a href="https://github.com/anuraghazra/github-readme-stats" style="margin-bottom: 20px; display: block;">
     <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=netoADS&theme=vue-dark&show_icons=true" alt="Anurag's GitHub stats" style="width: 100%">
   </a>
-</div>
-
-<div style="display: flex; justify-content: center; margin-top: 20px;">
   <a href="https://github.com/anuraghazra/github-readme-stats" style="display: block;">
     <img width="800" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netoADS&layout=compact&theme=vue-dark&show_icons=true" alt="Top Langs" style="width: 100%">
   </a>
 </div>
+
+<!--<div style="display: flex; justify-content: center; margin-top: 20px;"> 
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="display: block;">
+    <img width="800" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netoADS&layout=compact&theme=vue-dark&show_icons=true" alt="Top Langs" style="width: 100%">
+  </a>
+</div>-->
 
 Que os espíritos da floresta guiem nossos códigos e que nossas jornadas <br> 
 sejam tão profundas quanto as raízes das árvores antigas! 🌲🌌

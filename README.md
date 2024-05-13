@@ -48,11 +48,12 @@ Seja bem-vindo à minha clareira digital no GitHub! Sou um druida do código, co
 </div>
 
 ## Estatísticas GitHub 📊
-
-<div<!--  style="display: flex; justify-content: space-around; align-items: center;" -->>
+<!-- 
+<div style="display: flex; justify-content: space-around; align-items: center;" >
  <!--  <a href="https://git.io/streak-stats" style="margin-bottom: 20px; display: block;">
     <img width="400" height="200" src="https://github-readme-streak-stats.herokuapp.com?user=netoADS&theme=vue-dark&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" style="width: 100%">
   </a> -->
+ <div> 
   <a href="https://github.com/anuraghazra/github-readme-stats" style="margin-bottom: 20px; display: block;">
     <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=netoADS&theme=vue-dark&show_icons=true" alt="Anurag's GitHub stats" style="width: 100%">
   </a>
